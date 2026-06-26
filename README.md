@@ -1,7 +1,6 @@
 <div align="center">
   
-  <!-- 1. PLACE YOUR AMBIENT / CINEMATIC HEADER GIF HERE -->
-  <!-- Example: <img src="./assets/banner.gif" width="100%" style="border-radius: 8px;"> -->
+  <!-- 1. AMBIENT / CINEMATIC HEADER GIF -->
   <img src="https://cdn.dribbble.com/users/32512/screenshots/5283433/media/4c760252119934e64f78317769cb6a88.gif" width="100%" alt="Ambient Mathematical Nodes" style="border-radius: 8px;">
 
   <br><br>
@@ -28,7 +27,7 @@
 
 I operate at the intersection of deep theoretical rigor and physical computation. Navigating a dual-architectural foundation in Computer Science and Data Science, my focus is deliberately trained on the microsecond-level friction of high-frequency architecture and the structural beauty of system design. 
 
-I bypass conventional retrieval pipelines to focus strictly on the mathematical and theoretical cores of multi-threading in neural network optimization. To me, deep tech is not about API calls—it is about understanding how seemingly disparate structures speak to each other. Whether I am mapping the behavior of lock-free data structures, tracing the electromagnetic limits of hardware, or observing the deeply erratic socio-behavioral drivers of financial markets, my workflow remains the same: calm focus, thoughtful systems, and the patience to watch the layers connect.
+I bypass conventional retrieval pipelines to focus strictly on the mathematical and theoretical cores of multi-threading in neural network optimization. To me, deep tech is not about API calls—it is about understanding how seemingly disparate structures speak to each other.
 
 ---
 
@@ -36,8 +35,6 @@ I bypass conventional retrieval pipelines to focus strictly on the mathematical 
 
 *   **I'm currently working on** &nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
 *   **I architect systems using** &nbsp; <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-*   **I optimize algorithms with** &nbsp; <img src="https://img.shields.io/badge/XGBoost-110000?style=flat-square&logo=xgboost&logoColor=39A96B" alt="XGBoost" /> <img src="https://img.shields.io/badge/LightGBM-000000?style=flat-square&logo=microsoft&logoColor=white" alt="LightGBM" />
-*   **I push logic to the edge via** &nbsp; <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" /> <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
 
 <br>
 
@@ -105,6 +102,6 @@ I bypass conventional retrieval pipelines to focus strictly on the mathematical 
   <em>Let the work speak. Let the math converge. Let the system scale.</em>
   <br><br>
   
-  <!-- 3. PLACE YOUR GITHUB CONTRIBUTION SNAKE GIF HERE -->
+  <!-- 3. GITHUB SNAKE GIF -->
   <img src="https://raw.githubusercontent.com/aditya060806/aditya060806/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Contribution Graph" style="opacity: 0.8;">
 </div>
