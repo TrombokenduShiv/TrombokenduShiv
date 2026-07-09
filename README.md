@@ -80,7 +80,6 @@ I bypass conventional retrieval pipelines to focus strictly on the mathematical 
 
 </details>
 
----
 
 ### ▱ THE STOCHASTIC PULSE: Market Microstructure & Quant Logic
 
@@ -95,13 +94,9 @@ I bypass conventional retrieval pipelines to focus strictly on the mathematical 
 
 </details>
 
----
 
 <div align="center">
   <br>
   <em>Let the work speak. Let the math converge. Let the system scale.</em>
   <br><br>
   
-  <!-- 3. GITHUB SNAKE GIF -->
-  <img src="https://raw.githubusercontent.com/aditya060806/aditya060806/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Contribution Graph" style="opacity: 0.8;">
-</div>
