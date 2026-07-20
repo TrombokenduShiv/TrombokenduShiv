@@ -99,4 +99,4 @@ I spend longer on fewer projects I can defend end-to-end: architecture, assumpti
   <em>Open to conversations about research, hard problems, or wherever the two happen to overlap.</em>
   <br><br>
   
-</div>s
+</div>
