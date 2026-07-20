@@ -25,11 +25,9 @@
 
 ### ▱ RESEARCH PHILOSOPHY
 
-My work sits at the intersection of machine learning research, distributed systems, and quantitative reasoning — with a specific interest in the theoretical and systems-level mechanics of multi-threaded neural network optimization, rather than in assembling pipelines from off-the-shelf components.
+My work sits at the intersection of machine learning research, distributed systems, and quantitative reasoning, with a specific interest in the theoretical and systems-level mechanics of multi-threaded neural network optimization, rather than in assembling pipelines from off-the-shelf components.
 
-I'd rather spend longer on fewer projects I can defend end-to-end — architecture, assumptions, and failure modes included — than move quickly across a wide surface of shallow ones. That shows up below: a hackathon system built on four peer-reviewed research pillars instead of a single retrieval stack, IP filed rather than just claimed, and a personal project scoped from the outset as a paper, not only a repository.
-
-Google Summer of Code contributor, with hackathon results consistently placing in the top 1% nationally.
+I spend longer on fewer projects I can defend end-to-end: architecture, assumptions, and failure modes included, than move quickly across a wide surface of shallow ones. That shows up below: a hackathon system built on four peer-reviewed research pillars instead of a single retrieval stack, IP filed rather than just claimed, and a personal project scoped from the outset as a paper, not only a repository. (Some of my Recent works)
 
 ---
 
@@ -50,7 +48,7 @@ Google Summer of Code contributor, with hackathon results consistently placing i
 ### ▱ SELECTED WORK — Deep Learning & Systems *(expand for detail)*
 
 <details>
-<summary><strong>✦ SIDDHI</strong> <em>— Industrial Knowledge Intelligence (Spatio-Temporal Graph Neural Networks)</em></summary>
+<summary><strong>✦</strong> <em> Industrial Knowledge Intelligence (Spatio-Temporal Graph Neural Networks)</em></summary>
 
 > A deep-ML system for reasoning over industrial knowledge, built on four peer-reviewed research pillars rather than a single off-the-shelf retrieval stack.
 *   Built an ingestion layer that extracts entities and relationships directly from unstructured engineering diagrams via transformer-based parsing, producing a structured topological graph instead of flat text.
@@ -61,7 +59,7 @@ Google Summer of Code contributor, with hackathon results consistently placing i
 </details>
 
 <details>
-<summary><strong>✦ Amnion Logic</strong> <em>— Hardware-Validated Access Control (Zero-Trust Systems)</em></summary>
+<summary><strong>✦</strong> <em> Hardware-Validated Access Control (Zero-Trust Systems)</em></summary>
 
 > An attempt to move access validation below the software layer entirely, so a compromised application can't forge a valid credential — because the credential is checked in logic gates, not code.
 *   Designed a cloud-governed locking system that verifies real-time geofencing before authorizing physical access.
