@@ -6,12 +6,12 @@
   <br><br>
 
   <h1 style="font-family: 'Georgia', serif; font-weight: 400;">TROMBOKENDU CHAKRABORTY</h1>
-  <p><strong>Architecting Multi-threaded Systems & Quantitative Logic</strong></p>
+  <p><strong>Deep Learning Research &middot; Distributed Systems &middot; Quantitative Methods</strong></p>
   <p><em>B.E. Computer Science & Engineering | B.S. Data Science & Applications</em></p>
 
   <br>
 
-  > *"There is a certain quiet that settles over a system when the mathematics finally converge. I do not build to add noise to the ecosystem; I engineer to find the underlying rhythm between raw physical friction and algorithmic elegance."*
+  > *"Beneath most complex systems sits a small number of rules simple enough to be true. Finding them tends to take the same patience as sitting with a hard question until it answers itself."*
   
   <br>
   
@@ -23,18 +23,20 @@
 
 ---
 
-### ▱ THE ARCHITECT'S MANIFESTO
+### ▱ RESEARCH PHILOSOPHY
 
-I operate at the intersection of deep theoretical rigor and physical computation. Navigating a dual-architectural foundation in Computer Science and Data Science, my focus is deliberately trained on the microsecond-level friction of high-frequency architecture and the structural beauty of system design. 
+My work sits at the intersection of machine learning research, distributed systems, and quantitative reasoning — with a specific interest in the theoretical and systems-level mechanics of multi-threaded neural network optimization, rather than in assembling pipelines from off-the-shelf components.
 
-I bypass conventional retrieval pipelines to focus strictly on the mathematical and theoretical cores of multi-threading in neural network optimization. To me, deep tech is not about API calls—it is about understanding how seemingly disparate structures speak to each other.
+I'd rather spend longer on fewer projects I can defend end-to-end — architecture, assumptions, and failure modes included — than move quickly across a wide surface of shallow ones. That shows up below: a hackathon system built on four peer-reviewed research pillars instead of a single retrieval stack, IP filed rather than just claimed, and a personal project scoped from the outset as a paper, not only a repository.
+
+Google Summer of Code contributor, with hackathon results consistently placing in the top 1% nationally.
 
 ---
 
-### ▱ THE TECHNICAL ARSENAL
+### ▱ TECH STACK
 
-*   **I'm currently working on** &nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-*   **I architect systems using** &nbsp; <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+*   **Currently deepening** &nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+*   **Building with** &nbsp; <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 <br>
 
@@ -45,54 +47,58 @@ I bypass conventional retrieval pipelines to focus strictly on the mathematical 
 
 ---
 
-### ▱ THE ALGORITHMIC CANVAS: Deep Tech & Systems
+### ▱ SELECTED WORK — Deep Learning & Systems *(expand for detail)*
 
 <details>
-<summary><strong> ✦ Spatial-Temporal Industrial Intelligence </strong> <em>(Graph Neural Networks & Predictive Heuristics)</em></summary>
+<summary><strong>✦ SIDDHI</strong> <em>— Industrial Knowledge Intelligence (Spatio-Temporal Graph Neural Networks)</em></summary>
 
-> Engineered a living organizational memory that treats physical plants not as disjointed text, but as a continuous, temporally-indexed graph.
-*   Architected an ingestion cortex utilizing transformer-based approaches to simultaneously extract objects and their interconnections from unstructured engineering diagrams, forming a pure topological graph.
-*   Replaced flat vector search with specialized graph experts (Entity, Causal, Flow) to navigate rigid proprietary structures and causal dependencies.
-*   Engineered a Spatial-Temporal Graph Neural Network (ST-GNN) that computes real-time risk scores by fusing temporal event sequences with graph structures to predict cascading equipment failures.
+> A deep-ML system for reasoning over industrial knowledge, built on four peer-reviewed research pillars rather than a single off-the-shelf retrieval stack.
+*   Built an ingestion layer that extracts entities and relationships directly from unstructured engineering diagrams via transformer-based parsing, producing a structured topological graph instead of flat text.
+*   Replaced generic vector search with specialized graph experts (entity, causal, flow) to preserve the proprietary structure and causal dependencies that flat retrieval discards.
+*   Designed a Spatio-Temporal Graph Neural Network that fuses temporal event sequences with graph structure to produce real-time risk scores for cascading equipment failure.
+*   Began as a hackathon entry; now being developed further as a longer-term venture.
 
 </details>
 
 <details>
-<summary><strong> ✦ Geo-Fenced Cryptographic Substrates </strong> <em>(Zero-Trust Hardware Validation)</em></summary>
+<summary><strong>✦ Amnion Logic</strong> <em>— Hardware-Validated Access Control (Zero-Trust Systems)</em></summary>
 
-> Bridged the gap between digital control and physical security by forcing software-based delivery commands to survive the uncompromising reality of raw logic gates.
-*   Architected a cloud-governed locking system that continuously monitors real-time geospatial boundaries before authorizing access.
-*   Bypassed traditional software vulnerabilities by enforcing zero-trust, hardware-level validation—utilizing interconnected digital logic circuits (XOR/NOR gates) and shift registers to physically validate dynamically generated authentication signals.
-*   Integrated strict hardware lockouts to silently absorb and neutralize physical brute-force anomalies.
+> An attempt to move access validation below the software layer entirely, so a compromised application can't forge a valid credential — because the credential is checked in logic gates, not code.
+*   Designed a cloud-governed locking system that verifies real-time geofencing before authorizing physical access.
+*   Enforced validation in hardware — interconnected XOR/NOR logic and shift registers — closing off an entire class of software-side attack rather than patching around it.
+*   Added hardware-level lockouts that absorb brute-force attempts without needing a software fix.
+*   IP currently under review for a provisional patent filing.
 
 </details>
 
 <details>
-<summary><strong> ✦ Decentralized Edge Heuristics </strong> <em>(Offline-First PWA Ecosystems)</em></summary>
+<summary><strong>✦ Triage-Gated Agentic RAG</strong> <em>— Offline-First Study Planner (Progressive Web App)</em></summary>
 
-> Engineered a zero-cost, serverless architecture designed to thrive in environments with volatile connectivity and extreme latency constraints.
-*   Constructed a progressive edge-computed platform relying on decentralized state management, allowing infinite offline write capabilities via background syncing and Last-Write-Wins (LWW) conflict resolution.
-*   Pushed complex logic to the edge, developing abstract syntax tree (AST) parsers that execute heavily constrained math functions dynamically within secure sandbox environments.
-*   Implemented WebRTC and optical air-gapping protocols for zero-network peer-to-peer data syncing, ensuring absolute data immutability and survival across disconnected nodes.
+> Scoped from day one as two things at once — a working tool, and a research question worth writing up properly.
+*   Architected an eight-stage agentic RAG pipeline with a triage gate: the system decides how much retrieval and reasoning a query actually needs before running it, instead of routing every request down the same expensive path.
+*   Built for full offline operation — local-first state, background sync, and Last-Write-Wins conflict resolution — so nothing is lost when connectivity drops.
+*   Sandboxed math execution through AST-parsed expressions rather than unrestricted eval, with WebRTC-based peer sync explored for zero-network environments.
+*   Structured from the start to be written up as a paper, not only shipped as a project.
 
 </details>
 
 
-### ▱ THE STOCHASTIC PULSE: Market Microstructure & Quant Logic
+### ▱ SELECTED WORK — Quantitative Research *(expand for detail)*
 
 <details>
-<summary><strong> ✦ Markovian Regime Evaluators </strong> <em>(Probabilistic Market Modeling)</em></summary>
+<summary><strong>✦ Markovian Regime Evaluators</strong> <em>— Probabilistic Market Modeling</em></summary>
 
-> Financial markets are essentially a continuous, highly volatile conversation between mathematical probability and human sentiment. This is an exercise in listening to the noise.
-*   Engineered a regime-switching framework to simulate and evaluate $5,000+$ discrete forward-paths, capturing the socio-behavioral drivers of highly non-stationary market conditions.
-*   Constructed an automated continuous-learning loop that silently invalidates decaying logic and reallocates capital constraints to highest-probability predictive paths.
-*   Successfully captured non-linear dynamics to outmaneuver standard baselines, validating performance through autoregressive simulation engines.
+> Markets are a noisy signal generated by a mostly-hidden state. This project treats the noise as data, not as something to filter out.
+*   Built a regime-switching framework that simulates and evaluates 5,000+ discrete forward paths to capture the behavioral drivers behind non-stationary market conditions.
+*   Added a continuous-learning loop that retires decaying logic automatically and reallocates capital toward the highest-probability paths currently active.
+*   Validated performance against standard baselines through autoregressive simulation rather than backtesting alone.
 
 </details>
 
 
 <div align="center">
   <br>
-  <em>Let the work speak. Let the math converge. Let the system scale.</em>
+  <em>Open to conversations about research, hard problems, or wherever the two happen to overlap.</em>
   <br><br>
   
+</div>s
