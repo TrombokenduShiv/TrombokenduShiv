@@ -95,3 +95,4 @@ I bypass conventional retrieval pipelines to focus strictly on the mathematical 
   <br>
   <em>Let the work speak. Let the math converge. Let the system scale.</em>
   <br><br>
+  
