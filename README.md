@@ -17,7 +17,7 @@
   
   <a href="mailto:trombokendu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/trombokendu-chakraborty"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" /></a>
+  <a href="https://medium.com/@trombokendu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" /></a>
 
 </div>
 
@@ -49,35 +49,29 @@ I bypass conventional retrieval pipelines to focus strictly on the mathematical 
 
 <details>
 <summary><strong> ✦ Spatial-Temporal Industrial Intelligence </strong> <em>(Graph Neural Networks & Predictive Heuristics)</em></summary>
-
 > Engineered a living organizational memory that treats physical plants not as disjointed text, but as a continuous, temporally-indexed graph.
 
 *   Architected an ingestion cortex utilizing transformer-based approaches to simultaneously extract objects and their interconnections from unstructured engineering diagrams, forming a pure topological graph.
 *   Replaced flat vector search with specialized graph experts (Entity, Causal, Flow) to navigate rigid proprietary structures and causal dependencies.
 *   Engineered a Spatial-Temporal Graph Neural Network (ST-GNN) that computes real-time risk scores by fusing temporal event sequences with graph structures to predict cascading equipment failures.
-
 </details>
 
 <details>
 <summary><strong> ✦ Geo-Fenced Cryptographic Substrates </strong> <em>(Zero-Trust Hardware Validation)</em></summary>
-
 > Bridged the gap between digital control and physical security by forcing software-based delivery commands to survive the uncompromising reality of raw logic gates.
 
 *   Architected a cloud-governed locking system that continuously monitors real-time geospatial boundaries before authorizing access.
 *   Bypassed traditional software vulnerabilities by enforcing zero-trust, hardware-level validation—utilizing interconnected digital logic circuits (XOR/NOR gates) and shift registers to physically validate dynamically generated authentication signals.
 *   Integrated strict hardware lockouts to silently absorb and neutralize physical brute-force anomalies.
-
 </details>
 
 <details>
 <summary><strong> ✦ Decentralized Edge Heuristics </strong> <em>(Offline-First PWA Ecosystems)</em></summary>
-
 > Engineered a zero-cost, serverless architecture designed to thrive in environments with volatile connectivity and extreme latency constraints.
 
 *   Constructed a progressive edge-computed platform relying on decentralized state management, allowing infinite offline write capabilities via background syncing and Last-Write-Wins (LWW) conflict resolution.
 *   Pushed complex logic to the edge, developing abstract syntax tree (AST) parsers that execute heavily constrained math functions dynamically within secure sandbox environments.
 *   Implemented WebRTC and optical air-gapping protocols for zero-network peer-to-peer data syncing, ensuring absolute data immutability and survival across disconnected nodes.
-
 </details>
 
 
@@ -85,13 +79,11 @@ I bypass conventional retrieval pipelines to focus strictly on the mathematical 
 
 <details>
 <summary><strong> ✦ Markovian Regime Evaluators </strong> <em>(Probabilistic Market Modeling)</em></summary>
-
 > Financial markets are essentially a continuous, highly volatile conversation between mathematical probability and human sentiment. This is an exercise in listening to the noise.
 
 *   Engineered a regime-switching framework to simulate and evaluate $5,000+$ discrete forward-paths, capturing the socio-behavioral drivers of highly non-stationary market conditions.
 *   Constructed an automated continuous-learning loop that silently invalidates decaying logic and reallocates capital constraints to highest-probability predictive paths.
 *   Successfully captured non-linear dynamics to outmaneuver standard baselines, validating performance through autoregressive simulation engines.
-
 </details>
 
 
