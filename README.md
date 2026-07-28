@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 1. AMBIENT / CINEMATIC HEADER GIF -->
-  <img src="[https://cdn.dribbble.com/users/32512/screenshots/5283433/media/4c760252119934e64f78317769cb6a88.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd2dnV1MXdlamhvY2d1NzVxamtzOXBodThyZnl6Z21mMnBrNG9lcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ewlKbYV2NmiZRZbh3/giphy.gif)" width="100%" alt="Ambient Mathematical Nodes" style="border-radius: 8px;">
+  <img src="/Nice To Meet You Shake Hands GIF by Amazon Prime Video.gif" width="100%" alt="Ambient Mathematical Nodes" style="border-radius: 8px;">
 
   <br><br>
 
