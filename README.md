@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 1. AMBIENT / CINEMATIC HEADER GIF -->
-  <img src="/Nice To Meet You Shake Hands GIF by Amazon Prime Video.gif" width="100%" alt="Ambient Mathematical Nodes" style="border-radius: 8px;">
+  <img src="/Nice To Meet You Shake Hands GIF by Amazon Prime Video.gif" width="75%" alt="Ambient Mathematical Nodes" style="border-radius: 8px;">
 
   <br><br>
 
