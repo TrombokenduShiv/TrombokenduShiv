@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 1. AMBIENT / CINEMATIC HEADER GIF -->
-  <img src="/Nice To Meet You Shake Hands GIF by Amazon Prime Video.gif" width="50%" height="75%" alt="Hello" style="border-radius: 8px; object-fit: cover; object-position: center;" />
+  <img src="/Nice To Meet You Shake Hands GIF by Amazon Prime Video.gif" width="100%" height="50%" alt="Hello" style="border-radius: 8px; object-fit: cover; object-position: center;" />
 
 
   <br><br>
